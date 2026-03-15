@@ -139,6 +139,18 @@ README.md
 
 ---
 
+## Project Architecture
+
+The project follows a typical data analytics workflow:
+
+1. Data Storage – CSV datasets simulating an e-commerce platform  
+2. SQL Analysis – Business queries for revenue, growth, and customer insights  
+3. Data Visualization – Power BI dashboard for business intelligence reporting  
+
+Workflow:
+
+Dataset → SQL Analysis → Business Insights → Power BI Dashboard
+
 ## Author
 
 Mohammad Sadat Sheikh
